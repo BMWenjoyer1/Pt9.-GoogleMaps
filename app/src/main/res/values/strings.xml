@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Pt9.-GoogleMaps_Gonzalez_Adrian</string>
+    <string name="search">Buscar</string>
+    <string name="search_by_coordinates">Buscar por Coordenadas</string>
+    <string name="search_by_location">Buscar por Población</string>
+    <string name="current_location">Mi Ubicación Actual</string>
+    <string name="latitude">Latitud</string>
+    <string name="longitude">Longitud</string>
+    <string name="location_name">Nombre de Población</string>
+    <string name="ok">Aceptar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="error">Error</string>
+    <string name="location_not_found">Ubicación no encontrada</string>
+    <string name="error_getting_location">Error al obtener la ubicación actual</string>
+    <string name="invalid_coordinates">Coordenadas inválidas</string>
+    <string name="location_permission_denied">Permiso de ubicación denegado</string>
+</resources>
